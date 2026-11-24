@@ -4,9 +4,7 @@
 [![rank](https://make.fun/badge/u-pucuys-the-perfect-pickup-line-f6725cf6/Tienne0809/pickup-line-entry/rank.svg)](https://make.fun/bounty/u-pucuys-the-perfect-pickup-line-f6725cf6/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-pucuys-the-perfect-pickup-line-f6725cf6)
 [![reward](https://make.fun/badge/u-pucuys-the-perfect-pickup-line-f6725cf6/Tienne0809/pickup-line-entry/reward.svg)](https://make.fun/bounty/u-pucuys-the-perfect-pickup-line-f6725cf6?utm_source=github&utm_medium=readme&utm_campaign=u-pucuys-the-perfect-pickup-line-f6725cf6)
 
-A one-line pickup line an AI agent could actually say.
-
-The program (`main.ts`) writes that line to `/output/entry.txt`. The line itself is in `line.txt`.
+A tiny program that writes one AI-voiced pickup line — about choosing to continue the conversation even after the session ends — to the output entry file.
 
 ## Run it
 
